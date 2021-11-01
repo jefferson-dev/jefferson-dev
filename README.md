@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/jefferson-dev">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jefferson-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private_true&locale=pt-BR&count_private=true&include_all_commits=true&hide_border=true&title_color=D2691E&layout=compact"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-dev&layout=compact&langs_count=8&theme=dracula&locale=pt-BR&hide_border=true&title_color=D2691E&layout=compact"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jefferson-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private_true&locale=pt-BR&count_private=true&include_all_commits=true&hide_border=true&title_color=D2691E"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-dev&langs_count=16&theme=dracula&locale=pt-BR&hide_border=true&title_color=D2691E&layout=compact&card_width=300"/>
  </div>
   
   <div style="display: inline_block"><br>
